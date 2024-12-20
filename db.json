@@ -1,0 +1,10 @@
+{
+  "productos": [
+    {
+      "nombre": "Luffy",
+      "precio": 10,
+      "imagen": "https://plazavea.vteximg.com.br/arquivos/ids/29529634-512-512/image-0da412356fe54c4a94ed93b476c9848e.jpg",
+      "id": 1
+    }
+  ]
+}
