@@ -1,0 +1,15 @@
+{
+  "name": "alura-geek",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
